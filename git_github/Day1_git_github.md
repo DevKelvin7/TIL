@@ -19,7 +19,7 @@ $git config --global --list
 ## Git 기본 명령어
 ---
 ### 1. 로컬 저장소
-![로컬저장소](./img/git_img1.png)
+![로컬저장소](https://github.com/yooyoo0209/TIL/blob/master/img/git_img1.png)
 - ``` Working Directory (= Working Tree)```: 사용자의 일반적인 작업이 일어나는 곳
 - ```Staging Area (=Index)```: 커밋을 위한 파일 및 폴더가 추가되는 곳
 - ```Repository```: Staging Area에 있던 파일 및 폴더의 변경사항(커밋)을 저장하는 곳
@@ -54,7 +54,7 @@ $git status
      2. ```Modified```: 수정되었지만 아직 Staging Area에는 반영하지 않는 상태
      3. ```Staged```: Staging Area에 올라간 상태
    
-![git status 명령어](../img/git_img2.png)
+![git status 명령어](https://github.com/yooyoo0209/TIL/blob/master/img/git_img2.png)
 
 ### 4. git add
 ---
@@ -98,4 +98,4 @@ $git log
 
 
 ### 7. git 명령어 한눈에 보기
-![git 명령어](../img/git_img3.png)
+![git 명령어](https://github.com/yooyoo0209/TIL/blob/master/img/git_img3.png)
