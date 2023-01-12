@@ -3,7 +3,7 @@
 :calendar: Start Date: 2023년 01월 11일 ~
 ## Git/GitHub
 ---
-- [git 기초](https://github.com/yooyoo0209/TIL/blob/master/Day1_git_github.md)
+- [git 기초](https://github.com/yooyoo0209/TIL/blob/master/git_github/Day1_git_github.md)
 - [clone, pull]()
 - [.gitignore]()
   

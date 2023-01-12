@@ -54,7 +54,7 @@ $git status
      2. ```Modified```: 수정되었지만 아직 Staging Area에는 반영하지 않는 상태
      3. ```Staged```: Staging Area에 올라간 상태
    
-![git status 명령어](./img/git_img2.png)
+![git status 명령어](../img/git_img2.png)
 
 ### 4. git add
 ---
@@ -98,4 +98,4 @@ $git log
 
 
 ### 7. git 명령어 한눈에 보기
-![git 명령어](./img/git_img3.png)
+![git 명령어](../img/git_img3.png)
