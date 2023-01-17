@@ -43,4 +43,16 @@
   - ```USE 데이터베이스명;```
 - Table 조회
   - ```SHOW TABLES;```
-- Table 
+- Table 구조 조회 
+  - ```DESC|DESCRIBE 테이블명```
+- SELECT 기본 구문
+  - ```mysql
+    SELECT 조회 표현식
+    [FROM] 테이블 명
+    [WHERE] 조건식
+    [GROUP BY] 컬럼명
+    [HAVING] 집계 조건식
+    [ORDER BY] 컬럼명 [ASC|DESC]
+    [LIMIT] 조회 ROW 개수
+    ```
+
